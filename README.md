@@ -1,1 +1,1 @@
-# plan-you-day
+# plan-your-day
