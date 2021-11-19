@@ -15,6 +15,11 @@ The purpose of this project is to build a calendar application that allows a use
 
 Bootstrap and jQuery 
 
+## Screenshot
+<img width="1440" alt="Screen Shot 2021-11-19 at 6 12 32 PM" src="https://user-images.githubusercontent.com/82120954/142703498-b03987d1-5394-41fa-b03f-8bc91b11f193.png">
+     
+<img width="1440" alt="Untitled 2" src="https://user-images.githubusercontent.com/82120954/142703503-f13a6d22-b061-420b-8120-f57fe75ccef7.png">
+
 ## [Questions](#table-of-contents)
 Please contact me using the following links:
 [GitHub](https://github.com/soaresmaria)
